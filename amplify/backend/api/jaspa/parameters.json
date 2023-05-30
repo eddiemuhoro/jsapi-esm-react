@@ -1,0 +1,6 @@
+{
+  "AppSyncApiName": "jaspa",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthModeLastUpdated": "2023-05-25T12:57:33.196Z"
+}

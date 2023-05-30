@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-jaspa-dev-144719-authRole",
+      "UnauthRoleArn": "arn:aws:iam::673088137052:role/amplify-jaspa-dev-144719-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::673088137052:role/amplify-jaspa-dev-144719-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-jaspa-dev-144719-deployment",
+      "UnauthRoleName": "amplify-jaspa-dev-144719-unauthRole",
+      "StackName": "amplify-jaspa-dev-144719",
+      "StackId": "arn:aws:cloudformation:us-east-1:673088137052:stack/amplify-jaspa-dev-144719/eab4c050-faf1-11ed-9951-0ef4dbbc0f71",
+      "AmplifyAppId": "d4fvnnam2ls2d"
+    },
+    "categories": {
+      "api": {
+        "jaspa": {}
+      }
+    }
+  }
+}
