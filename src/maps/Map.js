@@ -61,7 +61,7 @@ const MyMap = () => {
           },
           {
             headers: {
-              Authorization: 'Bearer 5a7b6e6d-aebe-4abf-b6b5-7c83f3c05ccc',
+              Authorization: 'Bearer  ghhg',
               'Content-Type': 'application/json',
             },
           }
